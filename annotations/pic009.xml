@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<annontation>
+<filename>pic009.png</filename>
+<size>
+<width>224</width>
+<height>126</height>
+</size>
+<object>
+<name>hand</name>
+<bndbox>
+<xmin>103</xmin>
+<ymin>44</ymin>
+<xmax>118</xmax>
+<ymax>62</ymax>
+</bndbox>
+</object>
+</annontation>
